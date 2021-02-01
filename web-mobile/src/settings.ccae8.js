@@ -1,5 +1,5 @@
 window._CCSettings = {
-    platform: "fb-instant-games",
+    platform: "web-mobile",
     groupList: [
         "default"
     ],
@@ -19,6 +19,6 @@ window._CCSettings = {
     bundleVers: {
         internal: "72bb7",
         resources: "103a8",
-        main: "7fea8"
+        main: "af293"
     }
 };
