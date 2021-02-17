@@ -1,0 +1,31 @@
+{
+    "paths": {},
+    "uuids": [
+        "04GtViCjRMRYUDO4XjLq2v",
+        "309A4qnBlIX5TUZ7ypaens",
+        "981SH2/ChKJaxQ5timaWQD",
+        "ecpdLyjvZBwrvm+cedCcQy"
+    ],
+    "scenes": {
+        "db://assets/home.fire": "981SH2/ChKJaxQ5timaWQD"
+    },
+    "redirect": [
+        "04GtViCjRMRYUDO4XjLq2v",
+        0,
+        "309A4qnBlIX5TUZ7ypaens",
+        0,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        1
+    ],
+    "deps": [
+        "resources",
+        "internal"
+    ],
+    "packs": {},
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}

@@ -1,0 +1,110 @@
+{
+    "paths": {
+        "77BRlgLBZG3ZwfI1is2U9B": [
+            "anim/boom",
+            "cc.AnimationClip"
+        ],
+        "10mJwfydJDdajOTWh4QnaU": [
+            "audios/back_ground_music",
+            "cc.AudioClip"
+        ],
+        "8a6TK/WDtFA4n0s+PmslYi": [
+            "audios/catch_seven",
+            "cc.AudioClip"
+        ],
+        "efk+Wj3DZD642UgWoG/3Xo": [
+            "audios/click",
+            "cc.AudioClip"
+        ],
+        "7fCTnaHWtOYbUdERGECWFB": [
+            "audios/game_over",
+            "cc.AudioClip"
+        ],
+        "1eQZSHRE5HG6AZ0n/Egyge": [
+            "font/UVNBaiSau_B",
+            "cc.TTFFont"
+        ],
+        "0cKr4emRZMDKxT3UrNtHl9": [
+            "font/UVNBaiSau_R",
+            "cc.TTFFont"
+        ]
+    },
+    "uuids": [
+        "0cKr4emRZMDKxT3UrNtHl9",
+        "10mJwfydJDdajOTWh4QnaU",
+        "13i8bx3mdDpo2exzlUjUbm",
+        "1eQZSHRE5HG6AZ0n/Egyge",
+        "25w+BR/OpBDJEiZKSr97Z6",
+        "28OrVLkMtJyqcaOs8sKGCm",
+        "2cMoecNCdDS6XVccl0JSw7",
+        "3cti+PIJ1HwpB7twi3g7hf",
+        "42clx786xGUL/ZG9v/stao",
+        "49uHdqEJFK/b/8baHWXXw2",
+        "77BRlgLBZG3ZwfI1is2U9B",
+        "7fCTnaHWtOYbUdERGECWFB",
+        "8a6TK/WDtFA4n0s+PmslYi",
+        "aaIw9UBGxHRaSp3/gCVYya",
+        "be1cC0SBJIlJYW/Favftgs",
+        "d2T3fvqn9OypsloD9u3m0T",
+        "efk+Wj3DZD642UgWoG/3Xo"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {
+        "0a416f0cc": [
+            "25w+BR/OpBDJEiZKSr97Z6",
+            "28OrVLkMtJyqcaOs8sKGCm",
+            "2cMoecNCdDS6XVccl0JSw7",
+            "3cti+PIJ1HwpB7twi3g7hf",
+            "42clx786xGUL/ZG9v/stao",
+            "49uHdqEJFK/b/8baHWXXw2",
+            "77BRlgLBZG3ZwfI1is2U9B",
+            "aaIw9UBGxHRaSp3/gCVYya",
+            "be1cC0SBJIlJYW/Favftgs",
+            "d2T3fvqn9OypsloD9u3m0T"
+        ]
+    },
+    "name": "resources",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "0a416f0cc",
+            "d47ba",
+            "0cKr4emRZMDKxT3UrNtHl9",
+            "2e317",
+            "10mJwfydJDdajOTWh4QnaU",
+            "72df5",
+            "13i8bx3mdDpo2exzlUjUbm",
+            "7be92",
+            "1eQZSHRE5HG6AZ0n/Egyge",
+            "4280e",
+            "7fCTnaHWtOYbUdERGECWFB",
+            "82c03",
+            "8a6TK/WDtFA4n0s+PmslYi",
+            "650cb",
+            "efk+Wj3DZD642UgWoG/3Xo",
+            "04093"
+        ],
+        "native": [
+            "0cKr4emRZMDKxT3UrNtHl9",
+            "4e953",
+            "10mJwfydJDdajOTWh4QnaU",
+            "36f68",
+            "13i8bx3mdDpo2exzlUjUbm",
+            "70e73",
+            "1eQZSHRE5HG6AZ0n/Egyge",
+            "10fdf",
+            "7fCTnaHWtOYbUdERGECWFB",
+            "e0400",
+            "8a6TK/WDtFA4n0s+PmslYi",
+            "e662b",
+            "efk+Wj3DZD642UgWoG/3Xo",
+            "7e47d"
+        ]
+    }
+}

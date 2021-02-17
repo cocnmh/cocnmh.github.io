@@ -1,0 +1,67 @@
+{
+    "paths": {
+        "04GtViCjRMRYUDO4XjLq2v": [
+            "img/bg_game",
+            "cc.SpriteFrame",
+            1
+        ],
+        "582hAdjbRMK5oFu1ufDQgi": [
+            "img/bg_game",
+            "cc.Texture2D"
+        ],
+        "309A4qnBlIX5TUZ7ypaens": [
+            "img/board",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c9HMNIofpF3LIBEgnDK2vs": [
+            "img/board",
+            "cc.Texture2D"
+        ],
+        "17LijaQdNNWaYiRhlWSfIR": [
+            "img/o",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4b8AwojClEkYsxyXn/bh31": [
+            "img/o",
+            "cc.Texture2D"
+        ],
+        "49iCWZbQxMHamamChNJ6OD": [
+            "img/x",
+            "cc.Texture2D"
+        ],
+        "e52MUf5a5IF6tE0UPCnpuO": [
+            "img/x",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "uuids": [
+        "04GtViCjRMRYUDO4XjLq2v",
+        "17LijaQdNNWaYiRhlWSfIR",
+        "309A4qnBlIX5TUZ7ypaens",
+        "49iCWZbQxMHamamChNJ6OD",
+        "4b8AwojClEkYsxyXn/bh31",
+        "582hAdjbRMK5oFu1ufDQgi",
+        "c9HMNIofpF3LIBEgnDK2vs",
+        "e52MUf5a5IF6tE0UPCnpuO"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {
+        "0b0bbe213": [
+            "49iCWZbQxMHamamChNJ6OD",
+            "4b8AwojClEkYsxyXn/bh31",
+            "582hAdjbRMK5oFu1ufDQgi",
+            "c9HMNIofpF3LIBEgnDK2vs"
+        ]
+    },
+    "name": "resources",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}
